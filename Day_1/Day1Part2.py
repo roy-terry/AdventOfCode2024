@@ -20,4 +20,4 @@ def day_one_part_two(file_path):
     return calculate_similarity_score(list1, list2)
 
 #print(day_one_part_two('input/day1/test.txt'))
-print(day_one_part_two('input/day1/day1.txt'))
+print(day_one_part_two('../input/day1/day1.txt'))

@@ -20,4 +20,4 @@ def day_one_part_one(file_path):
 
 
 #print(day_one_part_one('input/day1/test.txt'))
-print(day_one_part_one('input/day1/day1.txt'))
+print(day_one_part_one('../input/day1/day1.txt'))
